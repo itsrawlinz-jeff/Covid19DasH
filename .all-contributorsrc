@@ -1,0 +1,348 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Rawlinz",
+      "name": "Jeffrey Rowlings",
+      "avatar_url": "data:image/jpeg;base64,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",
+      "profile": "https://github.com/itsrawlinz-jeff",
+      "website":"https://itsrawlinz-jeff.github.io/rawlinzdesignsblogspot/",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "dansbecker",
+      "name": "Dan Becker",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1390442?v=4",
+      "profile": "https://github.com/dansbecker",
+      "contributions": [
+        "review",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "pratapvardhan",
+      "name": "Pratap Vardhan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3757165?v=4",
+      "profile": "https://twitter.com/PratapVardhan",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jbduarte",
+      "name": "Joao B. Duarte",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6477875?v=4",
+      "profile": "http://www.jbduarte.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "twiecki",
+      "name": "Thomas Wiecki",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/674200?v=4",
+      "profile": "https://twiecki.io/",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "jwrichar",
+      "name": "Joseph Richards",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52940005?v=4",
+      "profile": "https://github.com/jwrichar",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "aimran-adroll",
+      "name": "Asif Imran",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31903245?v=4",
+      "profile": "https://github.com/aimran-adroll",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "avyfain",
+      "name": "Avy Faingezicht",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4804875?v=4",
+      "profile": "http://www.faingezicht.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "pgrimaud",
+      "name": "Pierre Grimaud",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1866496?v=4",
+      "profile": "https://p.ier.re",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nite",
+      "name": "Andrew Clancy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/143404?v=4",
+      "profile": "https://github.com/nite",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kishorevasan",
+      "name": "Kishore Vasan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16017592?v=4",
+      "profile": "http://kishorevasan.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "bastien-boussouf",
+      "name": "Bastien",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/29279482?v=4",
+      "profile": "https://github.com/bastien-boussouf",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "anguyen1210",
+      "name": "Anthony Nguyen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26304802?v=4",
+      "profile": "https://mentalbreaks.rbind.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MarkDacek",
+      "name": "Mark Dacek",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26177997?v=4",
+      "profile": "https://github.com/MarkDacek",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jenniechow",
+      "name": "Jennie Chow",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/36515276?v=4",
+      "profile": "https://github.com/jenniechow",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "jph00",
+      "name": "Jeremy Howard",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/346999?v=4",
+      "profile": "http://jhoward.fastmail.fm",
+      "contributions": [
+        "tool",
+        "ideas"
+      ]
+    },
+    {
+      "login": "omoju",
+      "name": "Omoju Miller",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1815882?v=4",
+      "profile": "http://www.linkedin.com/in/omojumiller",
+      "contributions": [
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "vladpke",
+      "name": "Vlad Stan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1569786?v=4",
+      "profile": "https://github.com/vladpke",
+      "contributions": [
+        "maintenance",
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "adrianturcato",
+      "name": "adrianturcato",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9288755?v=4",
+      "profile": "https://github.com/adrianturcato",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "zachmayer",
+      "name": "Zach Mayer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/581590?v=4",
+      "profile": "https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "javaldro",
+      "name": "Jared Valdron",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31542321?v=4",
+      "profile": "https://github.com/javaldro",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "skullface",
+      "name": "skullface",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/221550?v=4",
+      "profile": "http://jessicapaoli.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "vantuyls",
+      "name": "Steve Van Tuyl",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9534576?v=4",
+      "profile": "https://github.com/vantuyls",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "zaxtax",
+      "name": "zaxtax",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8529?v=4",
+      "profile": "https://www.zinkov.com",
+      "contributions": [
+        "content",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "paras-jain",
+      "name": "Paras Jain",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57864667?v=4",
+      "profile": "https://github.com/paras-jain",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "artdgn",
+      "name": "Arthur Deygin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29574203?v=4",
+      "profile": "https://github.com/artdgn",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kant",
+      "name": "Darío Hereñú",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32717?v=4",
+      "profile": "https://github.com/kant",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "danielpcox",
+      "name": "Daniel Cox",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/56411?v=4",
+      "profile": "http://danielpcox.info",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "TeepaBlue",
+      "name": "TeepaBlue",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42367122?v=4",
+      "profile": "https://github.com/TeepaBlue",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Martin-Boehler",
+      "name": "Martin Boehler",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/39620954?v=4",
+      "profile": "http://linkedin.com/in/Martin-Boehler",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kannankumar",
+      "name": "Kannan Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/711743?v=4",
+      "profile": "http://kannankumar.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Otman404",
+      "name": "Otman404",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43283622?v=4",
+      "profile": "https://github.com/Otman404",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alonsosilvaallende",
+      "name": "Alonso Silva Allende",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30263736?v=4",
+      "profile": "http://www.dim.uchile.cl/~alsilva/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "anomal",
+      "name": "Sophiah (Zing-Ming)",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1459721?v=4",
+      "profile": "https://github.com/anomal",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "arungupta21",
+      "name": "Arun Gupta",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7274372?v=4",
+      "profile": "https://github.com/arungupta21",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ujs",
+      "name": "ujs",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5633010?v=4",
+      "profile": "https://github.com/ujs",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "covid19-dashboard",
+  "projectOwner": "github",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
